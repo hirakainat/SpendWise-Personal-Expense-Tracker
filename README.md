@@ -25,4 +25,4 @@ SpendWise is a simple single-page web application that helps users manage and tr
 - Chart.js
 - Browser Local Storage
 
-## 📂 Project Structure
+
